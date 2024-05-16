@@ -1,5 +1,7 @@
 <h1 align="center"> Hola👋, soy Stiven Reyes Ordoñez</h1>
-<h3 align="center">Estudiante de Ingenieria Informatica🌟.</h3>
+<h3 align="center">Estudiante de Ingenieria Informatica🌟,  de la Corporación Universitaria Autónoma de Nariño actualmente cursando últimos semestres. mi pasión por la tecnología y la informática hizo crecer mi interés por la programación. Fue así que decidí estudiar más a fondo sobre el desarrollo web realizando cursos en Udemy, YouTube y OpenBootCamp.
+
+Durante mi formación he aprendido diversas tecnologías y métodos de trabajo enfocados al desarrollo. Decidí́ consolidar mis conocimientos con varios proyectos tanto individuales como grupales junto a mis compañeros de universidad. Continúo formándome diariamente y mi pasión por la programación y tecnología va en aumento. Me considero una persona puntual, creativo, tecnológicamente hábil, puedo desempeñarse en roles que me asignen. Trabajo bien en equipo y considero que tener un buen ambiente en el trabajo..</h3>
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
@@ -67,10 +69,9 @@
       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
       alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
     rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+      </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      width="40" height="40" /> </a> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
